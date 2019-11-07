@@ -1,0 +1,40 @@
+{
+  "name": "SpookyBOT",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "spooky.js",
+  "scripts": {
+    "start": "node spooky.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "fs": "^0.0.2",
+    "megadb": "^3.0.0",
+    "hastebin-generator": "^1.1.4",
+    "util": "^0.12.1",
+    "weez": "^1.5.6",
+    "zeew": "^0.0.64",
+    "weather-js": "^2.0.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "ffmpeg": "^0.0.4",
+    "ytdl-core": "^1.0.0",
+    "node-opus": "^0.3.2",
+    "opusscript": "^0.0.7"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
